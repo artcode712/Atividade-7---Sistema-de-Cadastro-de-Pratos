@@ -25,7 +25,7 @@ $restaurante =mysqli_fetch_assoc($resultado);
 
 <body>
     <header>
-        <h1>CRUD - Livraria</h1>
+        <h1>Restaurante</h1>
     </header>
     <main>
         <h2>Editando o Restuarante <?php echo $restaurante["nome"]?>!</h2>

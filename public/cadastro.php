@@ -71,7 +71,6 @@ $usuarios = $conexao->query(
     <link rel="stylesheet" href="style/index.php">
 
 </head>
-
 <body>
 
     <h1>Cadastro</h1>
